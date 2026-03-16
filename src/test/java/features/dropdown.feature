@@ -1,3 +1,4 @@
+@DropdownTest
 Feature: Dropdown selection on The Internet
   As a user
   I want to be able to select options from a dropdown
